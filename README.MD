@@ -1,5 +1,3 @@
-Claro! Aqui está um **README.md** bem estruturado para o seu projeto de **GIF Animator em Go**:
-
 ```markdown
 # 🎨 GIF Animator em Go
 
@@ -86,3 +84,4 @@ Este projeto é livre para estudo e uso pessoal.
 ---
 
 👉 Esse README já explica como rodar, configurar e visualizar o GIF. Quer que eu adicione também uma seção mostrando como transformar o programa em um **servidor HTTP** que serve o GIF direto no navegador (`localhost:8080`)?
+
